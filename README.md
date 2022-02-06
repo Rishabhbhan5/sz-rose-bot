@@ -45,7 +45,7 @@
 If you found a database error, follow the steps below
 💡 Warning: Use your bot for your personal use only   
 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/szsupunma/sz-rose-bot) 
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rishabhbhan5/sz-rose-bot) 
 
 ## 🐾Step 
 Your Heroku app > Resources tab > Find more add-ons & search Heroku Postgres > Submit Order Form
